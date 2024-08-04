@@ -65,7 +65,7 @@ This is a simple Task Manager application in Java that allows users to manage th
 
 ## Example
 
-**New User**
+### New User
 ![image](https://github.com/user-attachments/assets/d7058f0c-0918-4f78-a32c-71c55089e33f)
 
 **Existing User**
