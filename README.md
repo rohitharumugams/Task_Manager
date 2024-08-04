@@ -65,6 +65,32 @@ This is a simple Task Manager application in Java that allows users to manage th
 
 ## Example
 
+# New User
+![image](https://github.com/user-attachments/assets/d7058f0c-0918-4f78-a32c-71c55089e33f)
+
+# Existing User
+![image](https://github.com/user-attachments/assets/70c48cf4-6b81-4b51-bf6c-138922f3e224)
+
+# Add Task
+![image](https://github.com/user-attachments/assets/66640e45-620a-4bbb-abc4-3d393372d701)
+![image](https://github.com/user-attachments/assets/19dbbad6-617f-4d12-b03f-4e1d7689be99)
+
+# View All Tasks
+![image](https://github.com/user-attachments/assets/e0fcbca1-b4b3-4b1c-b6ce-fff2e566341c)
+
+# View Pending Tasks
+![image](https://github.com/user-attachments/assets/54d84706-cafa-4362-8ce2-f923d4e6002b)
+
+# Update Task
+![image](https://github.com/user-attachments/assets/df4b214c-a203-42bc-a83d-81659400473c)
+
+# Checking Off a Task
+![image](https://github.com/user-attachments/assets/e70f84df-42fc-476d-a56b-49ff8eed8d7e)
+
+# Logging Off
+![image](https://github.com/user-attachments/assets/1247bb03-19e5-4bcf-b961-e0e63a169114)
+
+
 ## Dependencies
 
 - Java Development Kit (JDK) 8 or later
